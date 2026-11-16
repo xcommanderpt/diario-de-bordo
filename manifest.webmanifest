@@ -1,0 +1,19 @@
+{
+  "name": "Diário de Bordo — Viagens e Guias",
+  "short_name": "Diário de Bordo",
+  "description": "Registo privado de viagens e guias de transporte",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f3f6fa",
+  "theme_color": "#10243b",
+  "lang": "pt-PT",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
