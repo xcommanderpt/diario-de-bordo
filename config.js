@@ -1,0 +1,2 @@
+export const SUPABASE_URL="https://fmrywjuyxslsjevvvhke.supabase.co";
+export const SUPABASE_ANON_KEY="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZtcnl3anV5eHNsc2pldnZ2aGtlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTQ3NzY4MTQsImV4cCI6MjExMDM1MjgxNH0.C9Tko4sxMEZrZukgjgWU7J6yL-mVeWBZF3XPQL0BSqg";
